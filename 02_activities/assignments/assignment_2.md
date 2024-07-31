@@ -10,25 +10,44 @@
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
-      Your answer...
+    BAD :
 
+    https://public.tableau.com/app/profile/grow.with.google/viz/WorldHappiness_16003108197090/12_YearlyHappinessScoreChanges
 
+   I think the visualization here is bad because although he has data for almost every country, he chose to visualize only European countries. If he had included Africa and Asia in the visualization, it would have been a more effective study. It would also have allowed us to compare happiness rates around the world.
 
+    Also, when we look at the rates of happy people, isn't it interesting that the rate is so low in such developed countries?
+    Another interesting point is that there are huge economic differences between countries where happiness rates are increasing and countries where it is decreasing. In other words,  people from developed countries (France, United Kingdom, Denmark, Belgium) are becoming unhappy, while the people of developing countries are happier
 
+    GOOD:
+
+    https://public.tableau.com/app/profile/chimdi.nwosu/viz/MakeoverMonday2024Week29-OpenEraWimbledonChampionshipInsights/WimbledonOpenEra
+
+    The graph showing the inequality in money earned between men and women is very well thought out. It shows that the money has been equalized after 2007 and the same prize is given regardless of gender.
+
+    The fact that the colors used in the table are chosen from the colors of the tennis court and the tennis ball is an important detail.
+
+    The "Record by Year" section is very nice, you can clearly see which year you were first and which year you were second. It is nice that it shows them all in one table without distinguishing between men and women.
+
+    As can be seen in "Participation Years vs. Wins", both the prize and the money won increase as you continue to participate in the tournament. The table showing the positive correlation between participation and prize is very well thought out.
 
 
 
       ```
     - How could this data visualization have been improved?  
       ```
-      Your answer...
+      BAD :
 
+    First I would add countries from each continent, at least the important and large countries in each continent.
 
+    All positive and negative values ​​are shown in the same color, I made the negatives red.
 
+    Finally, I would take the average of the continents under the country graph and show the change in happiness of the continents in a separate graph.
 
+    GOOD:
 
+    I think the only thing I would change is removing the gender and country they represent from the main table because it has nothing to do with how much money they make.
 
-      
       ```
 - Word count should not exceed (as a maximum) 500 words for each visualization (i.e. 
 300 words for your good example and 500 for your bad example)
